@@ -1,5 +1,7 @@
 SPDX-License-Identifier: MIT
 
+Entry for the make.fun competition news-image-20261126 (account b10).
+
 MIT License
 
 Copyright (c) 2026 4Zqi59nuNasvfM4a52NxdD1Y4Gba6zJzCpdmV6UTHLTJ
@@ -21,3 +23,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Note: this license covers the code in this repository (gen.py, main.py)
+and the entry image (entry.png) rendered by it.
